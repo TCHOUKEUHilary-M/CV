@@ -1,0 +1,131 @@
+/*
+Merriweath - Gras - 36
+Open Sans - Normal - 9
+Open Sans - Gras - 9
+Merriweath - Gras - 11
+Open Sans - Normal - 8
+Merriweath - Gras - 9
+Merriweath - Normal - 9
+*/
+
+body {
+    background-color: black;
+}
+
+#cv {
+    background-color: white;
+    padding: 64px;
+    width: 620px;
+    height: 877px;
+    margin: auto;
+    align-self: center;
+}
+
+#header {
+    width: 100%;
+    display: flex;
+    padding-bottom: 32px;
+}
+
+#content {
+    display: flex;
+    width: 100%;
+}
+
+.left{
+    width: 70%;
+    margin-right: 16px;
+}
+
+.right{
+    width: 30%;
+}
+
+#name {
+    font-family: 'Merriweath';
+    font-weight: bold;
+    font-size: 3.7em;
+    padding: 0px;
+    margin: 0px;
+}
+
+.merr {
+    font-family: 'Merriweath';
+    padding: 0px;
+    margin: 0px;
+}
+.gras-11{font-weight: bold;
+    font-size: 1.1em;
+    }
+.ital-11{
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+.norm-9{
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+.gras-9{
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+.os-norm-9 {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+.os-norm-9-gray {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 0.8em;
+    color: gray;
+}
+
+.os-gras-9 {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.os-gras-9-blue {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 0.8em;
+    color: aqua;
+}
+
+.os-norm-8-gray-uppercase{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    color: gray;
+    padding-top: 0px;
+}
+
+.section {
+    margin: 0px 0px 16px 0px;
+}
+
+p {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+p.os-gras-9-blue{
+    margin-bottom: 16px;
+}

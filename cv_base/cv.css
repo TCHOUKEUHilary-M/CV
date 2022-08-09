@@ -1,0 +1,26 @@
+/*
+Merriweath - Gras - 36
+Open Sans - Normal - 9
+Open Sans - Gras - 9
+Merriweath - Gras - 11
+Open Sans - Normal - 8
+Merriweath - Gras - 9
+Merriweath - Normal - 9
+*/
+
+body {
+    background-color: black;
+}
+
+
+
+#cv {
+    background-color: white;
+    padding: 64px;
+    
+    width: 620px;
+    height: 877px;
+    
+    margin: auto;
+    align-self: center;
+}

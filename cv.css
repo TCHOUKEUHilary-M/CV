@@ -1,0 +1,38 @@
+header{
+    background-color:rgb(163, 212, 163) ;
+    height: 100px;
+    text-align: center;
+}
+#logo{
+    background-color:rgb(24, 87, 24) ;
+    font-size: 20px;
+     column-width: 250cm;
+     color: white;
+     padding: 15px;
+}
+div{
+   margin:5% 15% 5% 15% ;
+   padding:0%;
+   border:15px solid white;
+   border-radius: 50%;
+   width: 60%;
+   font-size:50px;
+   font-family:'Times New Roman', Times, serif;
+   position:relative;
+   padding:15px   
+}
+#part2{
+    background-color: white;
+    font-size:18px;
+    column-width: 500cm;
+    padding: 20px;
+}
+.top{
+    color:rgb(24, 87, 24) ;
+}
+footer{
+    background-color:rgb(163, 212, 163);
+    color:black ; 
+    text-align:center;
+    height: 100px;"
+}
